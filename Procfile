@@ -1,0 +1,1 @@
+worker: python adera_bot.py
